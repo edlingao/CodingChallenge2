@@ -139,19 +139,22 @@ img{
     color: #008093;
 }
 
-.container {
+.navbar {
     display: flex;
+    background-color: #008080;
   }
 
 
-  .container > li {
+  .navbar > li {
     flex: 1;
   }
 
-  .Contenedor .Head nav ul.container li {
+  .Contenedor .Head nav ul.navbar li {
       margin-right: 15px;
       list-style: none;
       font-size: 25px;
+      text-align: right;
+      color: #008080;
   }
 
 
