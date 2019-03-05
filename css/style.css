@@ -142,32 +142,20 @@ img{
     text-align:center;
     
 }
-
-<<<<<<< HEAD
-.navbar {
-=======
-.Boton2:hover{
-    background: rgba(221,230,220.3);
-}
 .container {
->>>>>>> 7faec56258ca861bbbd7e4f5943d6027658fc527
     display: flex;
-    background-color: #008080;
   }
 
 
-  .navbar > li {
+  .container > li {
     flex: 1;
   }
 
-  .Contenedor .Head nav ul.navbar li {
+  .Contenedor .Head nav ul.container li {
       margin-right: 15px;
       list-style: none;
       font-size: 25px;
-      text-align: right;
-      color: #008080;
   }
-
 
 
 
