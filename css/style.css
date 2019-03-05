@@ -32,6 +32,10 @@ img{
     
 }
 
+.Mensaje{
+    text-align: center;
+}
+
 .Portafolio{
     width: 100%;
     display: flex;
@@ -141,7 +145,33 @@ img{
     color: #008093;
     text-align:center;
     
+    
 }
+
+
+
+.Footer{
+    width: 100%;
+    text-align: center;
+    background: #21313f;
+    color: white;
+    padding: 5%;
+    font-size: 25px;
+    
+}
+<<<<<<< HEAD
+=======
+
+.Link{
+    color: white;
+}
+
+
+
+.Boton2:hover{
+    background: rgba(221,230,220.3);
+}
+>>>>>>> 10d6c4e9a95f04f88d5c6e399c679338c32ace99
 .container {
     display: flex;
   }
@@ -157,6 +187,9 @@ img{
       font-size: 25px;
   }
 
+
+
+    
 
 
 
