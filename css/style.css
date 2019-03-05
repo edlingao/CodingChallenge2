@@ -181,12 +181,15 @@ img{
     flex-direction: row;
 }
 .container {
-
-    width: 25%;
+    width: 35%;
+    display: flex;
+    justify-content: flex-end;
   }
 ul{
-        display: flex;
+    width: 100%;
+    display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 
