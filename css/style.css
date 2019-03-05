@@ -159,8 +159,6 @@ img{
     font-size: 25px;
     
 }
-<<<<<<< HEAD
-=======
 
 .Link{
     color: white;
@@ -171,20 +169,34 @@ img{
 .Boton2:hover{
     background: rgba(221,230,220.3);
 }
->>>>>>> 10d6c4e9a95f04f88d5c6e399c679338c32ace99
+
+.Head{
+    width: 100%;
+    background: #D2E8E4;
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    color: #008080;
+    flex-direction: row;
+}
 .container {
     display: flex;
+    width: 25%;
   }
 
 
+
+/*
   .container > li {
     flex: 1;
   }
+*/
 
   .Contenedor .Head nav ul.container li {
       margin-right: 15px;
       list-style: none;
-      font-size: 25px;
+      font-size: 15px;
   }
 
 
