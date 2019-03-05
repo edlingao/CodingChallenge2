@@ -114,18 +114,20 @@ img{
 }
 
 
+.container {
+    display: flex;
+  }
 
 
+  .container > li {
+    flex: 1;
+  }
 
-
-
-
-
-
-
-
-
-
+  .Contenedor .Head nav ul.container li {
+      margin-right: 15px;
+      list-style: none;
+      font-size: 25px;
+  }
 
 
 
