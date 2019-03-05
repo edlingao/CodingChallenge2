@@ -119,27 +119,38 @@ img{
 }
 
 .ListaBotones{
-    width: 100%;
+    width: 700px;
     height: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 100px;
+    margin-top: 50px;
     
     
 }
 
 .Boton2{
-        background: #e0ebe8;
+    width: 10%;
+    background: #e0ebe8;
     border: 2px solid #90c695;
-    padding: 20px;
     border-radius: 100%;
-    
+    padding: 25px;
+    padding-bottom: 40px;
+    padding-top: 45px;
     text-decoration: none;
     color: #008093;
+    text-align:center;
+    
 }
 
+<<<<<<< HEAD
 .navbar {
+=======
+.Boton2:hover{
+    background: rgba(221,230,220.3);
+}
+.container {
+>>>>>>> 7faec56258ca861bbbd7e4f5943d6027658fc527
     display: flex;
     background-color: #008080;
   }
