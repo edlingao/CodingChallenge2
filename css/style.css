@@ -38,6 +38,7 @@ img{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    padding-bottom: 20%;
 }
 
 .Titulo{
@@ -55,6 +56,8 @@ img{
     flex-direction: column;
     width: 100%;
     align-items: center;
+    
+
 }
 
 .Row{
@@ -96,10 +99,19 @@ img{
 
 
 .Boton:hover{
-    background: rgba(rgb(90,154,179,.6);
+    background: rgba(90,154,179,.3);
 }
 
-
+.Contacto{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25%;
+    
+}
 
 
 
