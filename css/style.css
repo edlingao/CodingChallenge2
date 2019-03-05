@@ -119,25 +119,28 @@ img{
 }
 
 .ListaBotones{
-    width: 100%;
+    width: 700px;
     height: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 100px;
+    margin-top: 50px;
     
     
 }
 
 .Boton2{
+    width: 10%;
     background: #e0ebe8;
     border: 2px solid #90c695;
-    padding: 45px;
     border-radius: 100%;
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding: 25px;
+    padding-bottom: 40px;
+    padding-top: 45px;
     text-decoration: none;
     color: #008093;
+    text-align:center;
+    
 }
 
 .Boton2:hover{
