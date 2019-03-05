@@ -130,15 +130,19 @@ img{
 }
 
 .Boton2{
-        background: #e0ebe8;
+    background: #e0ebe8;
     border: 2px solid #90c695;
-    padding: 20px;
+    padding: 45px;
     border-radius: 100%;
-    
+    padding-bottom: 50px;
+    padding-top: 50px;
     text-decoration: none;
     color: #008093;
 }
 
+.Boton2:hover{
+    background: rgba(221,230,220.3);
+}
 .container {
     display: flex;
   }
